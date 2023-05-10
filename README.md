@@ -7,4 +7,5 @@
 ## Usage:
 download the code, use openframeworks project generator to generate project
 
-## requirements: OF version 0.9.0, addons: ofxOpenCv, ofxCv, ofxKinect
+## requirements:
+OF version 0.9.0, addons: ofxOpenCv, ofxCv, ofxKinect
